@@ -7,6 +7,9 @@ function App() {
   return (
     <>
       <h1>Teddy's Refresherz</h1>
+      <form className="new-item-form">
+
+      </form>
     </>
   )
 }
